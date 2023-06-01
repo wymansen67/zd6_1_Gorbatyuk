@@ -1,0 +1,127 @@
+﻿^contentpage {
+    background-color: black;
+}
+
+.PageBgColor {
+    background-color: black;
+}
+
+#header {
+    font-size: 34;
+    font-weight: normal;
+    color: black;
+}
+
+#entry {
+    background-color: white;
+    border-radius: 10, 10, 10, 10;
+    color: black;
+}
+
+Button {
+    background-color: red;
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle {
+    font-size: 14;
+    background-color: white;
+}
+
+#else0 {
+    font-size: 14;
+    background-color: white;
+    color: black;
+}
+
+#else1 {
+    font-size: 14;
+    background-color: black;
+    color: white;
+}
+
+Picker {
+    background-color: #459F45;
+    color: white;
+}
+
+    Picker item {
+        background-color: white;
+    }
+
+#bttnStyle0 {
+    font-size: 14;
+    background-color: #459F45;
+    color: white;
+    border-radius: 25;
+}
+
+#bttnStyle1 {
+    font-size: 14;
+    background-color: #EFEFEF;
+    color: black;
+    border-radius: 25;
+}
+
+#bttnStyle2 {
+    font-size: 14;
+    background-color: #FFFFFF;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
+
+#bttnStyle3 {
+    font-size: 14;
+    background-color: #378237;
+    color: white;
+    border-radius: 25;
+}
+
+#bttnStyle4 {
+    font-size: 14;
+    background-color: #EFEFEF;
+    color: black;
+    border-radius: 25;
+}
+
+#bttnStyle5 {
+    font-size: 14;
+    background-color: #FFFFFF;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
+
+#bttnStyle6 {
+    font-size: 14;
+    background-color: #2E6C29;
+    color: white;
+    border-radius: 25;
+}
+
+#bttnStyle7 {
+    font-size: 14;
+    background-color: #E0E0E0;
+    color: black;
+    border-radius: 25;
+}
+
+#bttnStyle8 {
+    font-size: 14;
+    background-color: #EEEEEE;
+    color: black;
+    border-radius: 25;
+    border-width: 1;
+    border-color: black;
+}
